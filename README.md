@@ -1,4 +1,4 @@
-# subscription-tracker-api
+# Subscription-Tracker-API
  
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
